@@ -7,7 +7,7 @@
 - 资产链网络名称： asset_Chain  
 - 资产链RPC URL: http://124.71.110.109:8547  
 - 资产链ID: 898  
-- 货币符号：ASSET 
+- 货币符号：AS 
 
 ## 2. 编译并发布合约到资产链
  - **准备合约编译器**：打开在线remix IDE:  https://remix.ethereum.org/ 
