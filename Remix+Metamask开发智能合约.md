@@ -41,7 +41,7 @@
        }
    }
 ```
-![Image text](../resources/remix1.png) 
+![Image text](/resources/remix1.png) 
 - **编译合约**：选用的编译器版本要大于等于合约中要求的版本
 ![Image text](/resources/remix2.png)  
 - **metamask连接remix**：环境选择[Injected Provider - MetaMask] -- 点击deploy按钮 -- 弹出metamask插件，提示允不允许连接此网站 -- 选择连接， 连接成功后metemask中配置的chainID和用户账户地址都会在remix界面中显示。  
