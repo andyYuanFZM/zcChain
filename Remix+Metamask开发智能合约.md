@@ -41,13 +41,13 @@
        }
    }
 ```
-![Image text](../resources/remix1.png) 
+![Image text](/resources/remix1.png) 
 - **编译合约**：选用的编译器版本要大于等于合约中要求的版本
-![Image text](../resources/remix2.png)  
+![Image text](/resources/remix2.png)  
 - **metamask连接remix**：环境选择[Injected Provider - MetaMask] -- 点击deploy按钮 -- 弹出metamask插件，提示允不允许连接此网站 -- 选择连接， 连接成功后metemask中配置的chainID和用户账户地址都会在remix界面中显示。  
-![Image text](../resources/remix3.png)   
+![Image text](/resources/remix3.png)   
 - **部署合约到资产链上**：选择[deploy]按钮 -- 弹出matemask插件，提示部署合约所需的GAS费 (确保资产链上要拥有一定数量的燃料 )
-![Image text](../resources/remix4.png)   
+![Image text](/resources/remix4.png)   
 左侧红框中Deployed Contracts:  部署好的合约地址  
 - status: 合约部署的结果  
 - transaction hash: 合约部署成功返回的hash值  
@@ -86,7 +86,7 @@
 点击[transact]后，再通过小狐狸签名，就完成了NFT的发行。
 
 - **查询结果**：点击[Deployed Contracts]边上下拉箭头，再点击[balanceof]函数边上的下拉箭头，输入balanceof函数所需的参数,点击[call]按钮查询  
-![Image text](../resources/remix6.png)  
+![Image text](/resources/remix6.png)  
 
 ## 5. 在MetaMask钱包中导入上述NFT资产
 - 打开MetaMask手机APP， 进入到[收藏品]标签页
