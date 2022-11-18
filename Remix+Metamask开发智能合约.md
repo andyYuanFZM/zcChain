@@ -4,9 +4,9 @@
 1.  Chrome或Firefox浏览器安装metamask插件（一定要从官网下载），创建助记词后添加资产链的连接 
 ![平行链连接](/resources/metamask_connection.png)  
 
-- 网络名称： asset_Chain  
-- 新增RPC URL: http://124.71.110.109:8547  
-- 链ID: 898  
+- 资产链网络名称： asset_Chain  
+- 资产链RPC URL: http://124.71.110.109:8547  
+- 资产链ID: 898  
 - 货币符号：ASSET 
 
 ## 2. 编译并发布合约到资产链
