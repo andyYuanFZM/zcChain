@@ -1,6 +1,7 @@
 # 本文介绍在资产链上通过VSCode, HardHat和Node.js开发智能合约
 
 下文以Window操作系统为例说明  
+本文的测试代码在 HardHat_Sample 子目录下  
 
 ## 1. 搭建环境
 1. 安装Node.js (version >= 16.0)  
