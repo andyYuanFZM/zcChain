@@ -6,9 +6,9 @@
 
 ### 资产链上智能合约开发介绍
 本文主要介绍以下两种开发者常用的开发方式： 
-1. Remix+Metamask开发智能合约:  
+1. [[Remix+Metamask开发智能合约:]](./Remix+Metamask开发智能合约.md)  
 通过remix在线IDE编写，编译，并部署一个NFT智能合约到资产链上，并且调用该合约发行一个NFT资产，同时在小狐狸钱包中（手机APP）显示该资产。  
-2. Hardhat+VSCode开发智能合约:   
+2. [[Hardhat+VSCode开发智能合约:]](./VSCode+Hardhat开发智能合约.md)  
 通过Visual Studio Code编写一个智能合约， 通过npx, hardhat编译合约，并部署到链上。  
 
 备注:  
